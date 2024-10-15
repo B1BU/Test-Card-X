@@ -16,7 +16,7 @@ This project was inspired by [edent](https://github.com/edent)'s [SVG Test Cards
 
 ## Notes
 
-- Colors are guesstimates, as I couldn't color pick any images due to compression. If you know the correct ones, please let me know.
+- Colors are guesstimates, as I couldn't color pick any images accurately due to compression. If you know the correct ones, please let me know.
 - The PSD file isn't great, as I wasn't originally planning to post this online, but I felt other people could find it useful considering I was looking for this myself.
 - Sorry for the bad repo, I am very new to this.
 
