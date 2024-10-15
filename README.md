@@ -1,6 +1,6 @@
 # Test Card X Recreation
 
-This repository contains my attempt at a high-quality recreation of BBC's high-definition version of [Test Card W](https://testcard.fandom.com/wiki/Test_Card_W) (popularly referred to as [Test Card X](https://testcard.fandom.com/wiki/Test_Card_X)), made using [Photopea](https://www.photopea.com). I created this because I wanted to use the image for a gag on my livestreams but couldn't find a decent high-definition version online.
+This repository contains my attempt at a recreation of the high-definition variant of BBC's [Test Card W](https://testcard.fandom.com/wiki/Test_Card_W) (popularly referred to as [Test Card X](https://testcard.fandom.com/wiki/Test_Card_X)), made using [Photopea](https://www.photopea.com). I created this because I wanted to use the image for a gag on my livestreams but couldn't find a decent high-definition version online.
 
 I took a few creative liberties with my recreation so it looks more visually pleasing, like extending the side bars to align with the edges of the frame and the top and bottom bars to cover the line of dashes.
 
