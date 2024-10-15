@@ -9,7 +9,7 @@ Inspired by [edent](https://github.com/edent)'s [SVG Test Cards](https://github.
 
 ## Reference image
 
-![Test Card F Reference](https://github.com/B1BU/Test-Card-F/raw/main/test-card-f reference.png)
+![Test Card F Reference](https://github.com/B1BU/Test-Card-F/raw/main/test-card-f%20reference.png)
 
 ***
 
