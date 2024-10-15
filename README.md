@@ -23,3 +23,6 @@ This project was inspired by [edent](https://github.com/edent)'s [SVG Test Cards
 ## Usage
 
 Feel free to use this recreation however you like. Credit isn't required, but would be appreciated when sharing or using it publicly.
+
+## Special Thanks
+- [u/No_Coffee4280](https://www.reddit.com/user/No_Coffee4280) on the [Reddit Post](https://www.reddit.com/r/VIDEOENGINEERING/comments/1g41c26/remade_bbcs_test_card_f_in_photopea_because_i) for correcting me on referring to the high-definition variant of Test Card W as Test Card F and for providing some helpful links.
