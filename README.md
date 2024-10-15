@@ -1,6 +1,6 @@
-# Test Card F Recreation
+# Test Card X Recreation
 
-This repository contains my attempt at a high-quality recreation of BBC's [Test Card F](https://en.wikipedia.org/wiki/Test_Card_F), made using [Photopea](https://www.photopea.com). I created this because I wanted to use the image for a gag on my livestreams but couldn't find a decent high-quality version online.
+This repository contains my attempt at a high-quality recreation of BBC's [Test Card X](https://testcard.fandom.com/wiki/Test_Card_X), made using [Photopea](https://www.photopea.com). I created this because I wanted to use the image for a gag on my livestreams but couldn't find a decent high-quality version online.
 
 I took a few creative liberties with my recreation so it looks more visually pleasing, like extending the side bars to align with the edges of the frame and the top and bottom bars to cover the line of dashes.
 
@@ -8,11 +8,11 @@ This project was inspired by [edent](https://github.com/edent)'s [SVG Test Cards
 
 ## Preview
 
-![Test Card F Recreation](https://github.com/B1BU/Test-Card-F/raw/main/Test-Card-F-Recreation.png)
+![Test Card X Recreation](https://github.com/B1BU/Test-Card-X/raw/main/Test-Card-X-Recreation.png)
 
 ## Reference image
 
-![Test Card F Reference](https://github.com/B1BU/Test-Card-F/raw/main/Test-Card-F-Reference.jpg)
+![Test Card X Reference](https://github.com/B1BU/Test-Card-X/raw/main/Test-Card-X-Reference.jpg)
 
 ## Notes
 
