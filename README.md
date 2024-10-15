@@ -6,11 +6,11 @@ This project was inspired by [edent](https://github.com/edent)'s [SVG Test Cards
 
 ## Preview
 
-![Test Card F Recreation](https://github.com/B1BU/Test-Card-F/raw/main/test-card-f.png)
+![Test Card F Recreation](https://github.com/B1BU/Test-Card-F/raw/main/assets/test-card-f-recreation.png)
 
 ## Reference image
 
-![Test Card F Reference](https://github.com/B1BU/Test-Card-F/raw/main/test-card-f%20reference.jpg)
+![Test Card F Reference](https://github.com/B1BU/Test-Card-F/raw/main/assets/test-card-f-reference-image.jpg)
 
 ## Notes
 
